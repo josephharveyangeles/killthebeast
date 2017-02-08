@@ -1,7 +1,7 @@
 # killthebeast
 > a text-based card guessing game written in bash
 
-I was learning bash and thought making this is nice way to practice and glue things together.
+I was learning bash scripting and thought of making this is a nice way to practice and glue things together.
 
 ## About the Game
 Kill the Beast is a chance game wherein the player is testing his/her luck in taking down the Beast. The player possesses a great speed but is no match for the Beast. The Beast on the other hand is invincible due to its massive size rendering the players minuscule size and weapons useless. Although the Beast is indomitable, it has a weak spot: the throat. The player must dodge the Beasts attack, traverse the monsters body, then stab the weak spot in order to take down the Beast.
